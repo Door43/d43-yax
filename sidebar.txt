@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yax:home|Door43 (yax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yax|d43-yax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yax/archive/master.zip|d43-yax.zip]]
+
+**Recent Changes**
+{{changes>ns = yax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yax|Ethnologue data]]
+
